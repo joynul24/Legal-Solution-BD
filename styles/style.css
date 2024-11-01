@@ -14,3 +14,10 @@
 .primary-bg {
     background-color: #B68C5A;
 }
+
+
+/* banner section styles */
+#banner {
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: overlay;
+}
