@@ -8,3 +8,9 @@
 .font-poppins {
     font-family: "Poppins", sans-serif;
 }
+
+/* shard styles */
+
+.primary-bg {
+    background-color: #B68C5A;
+}
